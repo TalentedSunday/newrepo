@@ -1,0 +1,22 @@
+export default
+
+[{"id":1,"title":"Maren","image":"http://bestjquery.com/tutorial/product-grid/demo5/images/img-1.jpg","price":"553.14"},
+{"id":2,"title":"Nannette","image":"http://bestjquery.com/tutorial/product-grid/demo5/images/img-3.jpg","price":"965.75"},
+{"id":3,"title":"Kathlin","image":"http://bestjquery.com/tutorial/product-grid/demo10/images/img-4.jpg","price":"975.46"},
+{"id":4,"title":"Birk","image":"http://bestjquery.com/tutorial/product-grid/demo5/images/img-7.jpg","price":"514.44"},
+{"id":5,"title":"Quintin","image":"http://bestjquery.com/tutorial/product-grid/demo9/images/img-1.jpg","price":"103.49"},
+{"id":6,"title":"Katine","image":"http://bestjquery.com/tutorial/product-grid/demo9/images/img-5.jpg","price":"295.30"},
+{"id":7,"title":"Glynis","image":"http://bestjquery.com/tutorial/product-grid/demo3/images/img-3.jpeg","price":"605.31"},
+{"id":8,"title":"Phillis","image":"http://bestjquery.com/tutorial/product-grid/demo10/images/img-4.jpg","price":"361.68"},
+{"id":9,"title":"Kent","image":"http://bestjquery.com/tutorial/product-grid/demo3/images/img-7.jpeg","price":"660.75"},
+{"id":10,"title":"Darelle","image":"http://bestjquery.com/tutorial/product-grid/demo4/images/img-3.jpg","price":"118.93"},
+{"id":11,"title":"Shep","image":"http://bestjquery.com/tutorial/product-grid/demo4/images/img-7.jpg","price":"908.46"},
+{"id":12,"title":"Otis","image":"http://bestjquery.com/tutorial/product-grid/demo4/images/img-5.jpg","price":"551.18"},
+{"id":13,"title":"Naomi","image":"http://bestjquery.com/tutorial/product-grid/demo10/images/img-2.jpg","price":"438.68"},
+{"id":14,"title":"Wyatan","image":"http://bestjquery.com/tutorial/product-grid/demo10/images/img-4.jpg","price":"960.25"},
+{"id":15,"title":"Karilynn","image":"http://bestjquery.com/tutorial/product-grid/demo8/images/img-5.jpg","price":"901.90"},
+{"id":16,"title":"Edmon","image":"http://bestjquery.com/tutorial/product-grid/demo7/images/img-1.jpg","price":"356.98"},
+{"id":17,"title":"Bengt","image":"http://bestjquery.com/tutorial/product-grid/demo6/images/img-3.jpg","price":"554.88"},
+{"id":18,"title":"Giffer","image":"http://bestjquery.com/tutorial/product-grid/demo10/images/img-1.jpg","price":"119.17"},
+{"id":19,"title":"Holly-anne","image":"http://bestjquery.com/tutorial/product-grid/demo11/images/img-1.jpg","price":"284.22"},
+{"id":20,"title":"Berton","image":"http://bestjquery.com/tutorial/product-grid/demo5/images/img-3.jpg","price":"972.33"}]
